@@ -1,0 +1,97 @@
+body {
+    background-image: url(../img/habitaciones/habitacion2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    position: absolute;
+}
+
+.con-bot{
+    position: absolute;
+    top: 0;
+    left: 00px;
+    width: 200px;
+    background-color: #3b4252;;
+    padding: 0px;
+    transition: left 0.3s ease;
+    padding-right: 6px;
+}
+
+.con-bot a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 5px;
+}
+
+con-bot a:hover {
+    background-color: #3b4252;
+}
+
+.y {
+    position: absolute;
+    top:15%;
+    left: 35%;
+    width: 400px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding-right: 200px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.e3 {
+    margin-left: 160px;
+    text-align: left;
+    font-size: 30px;
+}
+
+.w{
+    text-align: left;
+    display: flex;
+    font-size: 10px
+}
+
+
+.registro1 {
+    flex: 1;
+}
+
+.in1{
+    flex: 1;
+}
+
+.registro2 {
+    flex: 1;
+}
+
+.in2{
+    flex: 1;
+}
+
+.registro3{
+    flex: 2;
+}
+
+button {
+    color: white;
+    background-color: black;
+    width: 170px;
+}
+
+.e1{
+    padding-top: 10px;
+}
+
+.e2 {
+    width: 170px;
+}
+
+.ef {
+    padding-top: 440px;
+}
+
+
