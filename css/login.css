@@ -1,0 +1,33 @@
+body {
+    background-image: url(../img/login/bg-login.png);
+}
+
+.Formulario{
+    position: absolute;
+    top:15%;
+    left: 35%;
+    width: 400px;
+    background: rgba(74, 125, 170, 0.8);
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.t1 {
+    width: 180px;
+    margin-top: 40px;
+    color: white;
+    background-color: black;
+    margin-bottom: 40px;
+} 
+
+.i {
+    margin-top: 20px;
+}
+
+.o {
+    margin-left: -150px;
+    margin-top: 20px;
+}
+
+
